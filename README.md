@@ -1,4 +1,4 @@
-# SporcuBilgiSistemi
+# FutbolcuBilgiSistemi
 
 Genel Problem Tanımı:
 Çift bağlı liste (doubly linked list) veri yapısı kullanımına dayanan ve kayıtların isme göre alfabetik
